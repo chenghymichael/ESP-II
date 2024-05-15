@@ -1,3 +1,11 @@
+# ESP II - Fetal heart rate monitoring for twin and triplet pregnancies 
+# Measures of Success: Numerical Simulation
+
+# By Michael Cheng
+# Created for APS112: Engineering Strategies & Practice II (2024 Winter)
+# at the Faculty of Applied Science & Engineering, University of Toronto
+
+
 # Heading: 0
 
 import time
