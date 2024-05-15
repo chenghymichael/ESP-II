@@ -1,4 +1,4 @@
-# ESP II - Fetal heart rate monitoring for twin and triplet pregnancies 
+# ESP II - Fetal Heart Rate Monitoring for Twin and Triplet Pregnancies
 # Measures of Success: Numerical Simulation
 
 # By Michael Cheng
